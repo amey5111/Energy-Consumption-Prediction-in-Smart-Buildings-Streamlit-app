@@ -59,8 +59,6 @@ print(f'Mean Squared Error: {mse}')
 
 """**3. Build a Streamlit App**"""
 
-!pip install streamlit
-
 import streamlit as st
 import numpy as np
 
