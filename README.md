@@ -1,6 +1,8 @@
 
 # Streamlit app for Energy Consumption Prediction
 
+#### > Live link of Project: https://energy-consumption-prediction-in-smart-buildings-app.streamlit.app/
+
 #### > Data Science Project with user interactive UI for prediction :
 Smart building energy management systems need accurate energy consumption predictions to
 optimize energy usage, reduce costs, and support sustainability goals. 
